@@ -1,1 +1,1 @@
-# sprint_07
+# s7-tasks
